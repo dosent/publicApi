@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = ru.public_api.\
+    config.SqlTestContainersSpringContextCustomizerFactory
